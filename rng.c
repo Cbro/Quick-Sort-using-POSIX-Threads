@@ -1,3 +1,4 @@
+
 /*
  * A C-program for MT19937, with initialization improved 2002/2/10. Coded
  * by Takuji Nishimura and Makoto Matsumoto. This is a faster version by
